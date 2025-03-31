@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio website. This site showcases
 
 ## 🌐 Live Demo
 
-Visit my portfolio at: [https://konmez.github.io/portfolio](https://konmez.github.io/portfolio)
+Visit my portfolio at: [https://konmez.github.io/my_portfolio/](https://konmez.github.io/my_portfolio/)
 
 ## 📋 Features
 
